@@ -2,7 +2,7 @@
 /*====================================
  Free To Use For Personal And Commercial Usage
 Author: http://binarytheme.com
- Share Us if You Like our work 
+ Share Us if You Like our work
  Enjoy Our Codes For Free always.
 ======================================*/
 
@@ -45,7 +45,7 @@ $(function () {
     paceOptions = {
         elements: true
     };
-   
+
 
 });
 
